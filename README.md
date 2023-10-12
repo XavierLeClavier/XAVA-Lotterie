@@ -1,0 +1,1 @@
+echo # XAVA-Lotterie
